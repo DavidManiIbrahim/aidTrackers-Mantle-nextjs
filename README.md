@@ -1,8 +1,9 @@
-## WEB3-REACT WALLET CONNECTION DEMO
+## Aid Trackers WALLET CONNECTION 
 
 ## Getting Started
 
-First, run the development server:
+First install next & yarn,
+then run the development server:
 
 ```bash
 npm run dev
